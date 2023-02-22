@@ -13,7 +13,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <ul class="nav navbar-nav">
           <li class="nav-item">
-              <a class="nav-link" href="#" aria-current="page">Develoteca</a>
+              <a class="nav-link" href="#" aria-current="page">My-Books</a>
           </li>
           <li class="nav-item">
               <a class="nav-link" href="index.php">Inicio</a>
